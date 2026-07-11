@@ -24,4 +24,3 @@ Use the provided GitHub templates. Include macOS version, Mac model, dependency 
 ## Pull requests
 
 Keep pull requests focused. Describe the problem, the solution, verification performed, and any performance or privacy impact.
-

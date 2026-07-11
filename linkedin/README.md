@@ -22,4 +22,3 @@ Upload the PNG files directly to LinkedIn. Keep the post link in the body and us
 1. “Speech Cleaner native macOS interface showing local Azerbaijani audio cleanup controls, pause settings, and private on-device processing features.”
 2. “Speech Cleaner workflow showing audio cleanup, pause shortening, local Azerbaijani transcription, and timestamped export formats.”
 3. “Speech Cleaner app icon with a cyan-to-purple audio waveform on a dark gradient background.”
-

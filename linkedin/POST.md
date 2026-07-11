@@ -6,10 +6,10 @@ Voiceover cleanup often means repeating the same manual steps: cutting long paus
 
 What it does:
 
-• shortens long pauses while preserving natural spacing between words  
-• reduces steady background noise and normalizes speech loudness  
-• transcribes Azerbaijani speech locally and creates word-level timestamps  
-• exports clean WAV and M4A audio, CSV/JSON timing data, SRT/TXT transcripts, and an optional waveform MP4  
+• shortens long pauses while preserving natural spacing between words
+• reduces steady background noise and normalizes speech loudness
+• transcribes Azerbaijani speech locally and creates word-level timestamps
+• exports clean WAV and M4A audio, CSV/JSON timing data, SRT/TXT transcripts, and an optional waveform MP4
 • keeps the entire workflow on the Mac — recordings are never uploaded
 
 The app is built with **SwiftUI, AppKit, AVFoundation, Core Graphics, FFmpeg, whisper.cpp, and the Whisper multilingual model**. It also includes a headless benchmark mode for measuring the full production pipeline.
@@ -21,4 +21,3 @@ The project is now open source. I’d be happy to hear feedback from macOS devel
 GitHub: https://github.com/JamalJavadov/speech-cleaner
 
 #OpenSource #Swift #SwiftUI #macOS #AudioProcessing #SpeechRecognition #Whisper #FFmpeg #Azerbaijan #DeveloperTools
-

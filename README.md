@@ -138,4 +138,3 @@ Speech Cleaner does not include analytics, accounts, network uploads, or cloud p
 ## License
 
 Released under the [MIT License](LICENSE).
-

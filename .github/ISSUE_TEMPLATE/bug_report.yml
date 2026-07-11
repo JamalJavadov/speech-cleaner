@@ -37,4 +37,3 @@ body:
     id: logs
     attributes:
       label: Sanitized logs or screenshots
-

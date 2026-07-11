@@ -10,4 +10,3 @@
 - [ ] UI changes include before/after screenshots
 
 ## Privacy and performance impact
-
