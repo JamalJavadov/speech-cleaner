@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10192e"/>
+      <stop offset="1" stop-color="#32164d"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+  <rect x="42" y="42" width="940" height="940" rx="218" fill="url(#bg)"/>
+  <circle cx="512" cy="512" r="300" fill="#22d3ee" opacity=".12" filter="url(#shadow)"/>
+  <g fill="none" stroke="url(#wave)" stroke-linecap="round" stroke-width="42">
+    <path d="M210 512v-90M290 512V330M370 512V232M450 512V352M530 512V196M610 512V310M690 512V250M770 512V390M850 512v-70"/>
+    <path d="M210 512v90M290 512v182M370 512v280M450 512v160M530 512v316M610 512v202M690 512v262M770 512v122M850 512v70" opacity=".8"/>
+  </g>
+  <circle cx="530" cy="512" r="54" fill="#f8fafc"/>
+</svg>

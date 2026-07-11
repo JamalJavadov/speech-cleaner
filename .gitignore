@@ -1,0 +1,29 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# Local tools, models, and generated media
+Tools/
+Models/
+*.bin
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.mp4
+*.mov
+
+# Local environment and logs
+.env
+.env.*
+*.log
+
